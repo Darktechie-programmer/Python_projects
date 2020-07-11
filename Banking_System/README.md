@@ -1,2 +1,2 @@
 # Python_projects
-All the pyhton projects are here...
+Basic Bank Management system with all the functionality like debit, credit, withdrawal.. etc
